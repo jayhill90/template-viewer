@@ -7,7 +7,7 @@
  * @package TemplateViewer
  */
 
-namespace WPEngine\TemplateViewer;
+namespace WPDevLife\TemplateViewer;
 
 /**
  * Main class for TemplateViewer

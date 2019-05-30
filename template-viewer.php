@@ -12,7 +12,7 @@
  * @package Template_Viewer
  */
 
-namespace WPEngine\TemplateViewer;
+namespace WPDevLife\TemplateViewer;
 
 define(__NAMESPACE__ . '\PATH', plugin_dir_path(__FILE__));
 
